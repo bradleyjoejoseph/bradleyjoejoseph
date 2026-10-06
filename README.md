@@ -1,4 +1,4 @@
-# Bradley Joe Joseph
+# Bradley Joe (Joseph)
 **Second-Year MEng Computer Science with AI @ University of York**  
 York, UK · [LinkedIn](https://linkedin.com/in/bradleyjoejoseph) · [GitHub](https://github.com/bradleyjoejoseph)
 
