@@ -65,4 +65,4 @@ Passionate about full-stack software engineering, systems design, and foundation
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
