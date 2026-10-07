@@ -1,6 +1,6 @@
 # Bradley Joe (Joseph)
 **Second-Year MEng Computer Science with AI @ University of York**  
-York, UK · [LinkedIn](https://linkedin.com/in/bradleyjoejoseph) · [GitHub](https://github.com/bradleyjoejoseph)
+York, UK · [LinkedIn](https://linkedin.com/in/bradleyjoejoseph) · [Website](https://bradleyjoejoseph.github.io)
 
 Passionate about full-stack software engineering, systems design, and foundational artificial intelligence. Currently seeking a 12-month Software Engineering Industrial Placement for 2027/2028.
 
