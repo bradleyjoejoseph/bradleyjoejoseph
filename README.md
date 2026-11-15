@@ -23,19 +23,21 @@ Passionate about full-stack software engineering, systems design, and foundation
   - Designed and published an online multiplayer game with custom physics and game rules.
   - Iterated based on community telemetry to reach **5,500+ organic play sessions** and 1,000+ monthly active players.
 
-- **Endless Runner 3D Mobile Game**  
-  ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-  ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-  - Developed and published a 3D endless runner mobile game on the Google Play Store from scratch.
-  - Built procedural path generation, dynamic obstacle-spawning algorithms, and responsive touch physics in C#.
+- **Bradford Community Alliance · Website & Platform**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  - Built, run, and maintain the full stack community platform across the frontend, backend, and databases to serve local youth and venue operations.
+  - Engineered responsive frontend interfaces, dynamic pages for training programmes and venue bookings, and reliable backend database management.
 
 ---
 
 ### Work & Commercial Experience
 
-- **Bradford Community Action** — Digital Operations & Youth Work (2024 – Present)
-- **Laser Clinics UK** — Front of House & Client Operations (2023 – 2024)
+- **Bradford Community Alliance CIC** · Full Stack Developer & Multimedia Designer (Feb 2026 to Present)
+- **Laser Clinics UK** · Receptionist / Operations Support (Apr 2023 to Aug 2026)
 
 ---
 
